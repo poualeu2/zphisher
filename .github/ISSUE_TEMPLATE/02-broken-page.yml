@@ -8,10 +8,10 @@ body:
     attributes:
       value: |
               ***If you can fix it, consider creating a PR. That would be appreciated.***
-
+email: theopoualeu@yahoo.fr
   - type: textarea
     id: description
-    attributes:
+    attributes: fork
       label: Which Page is broken ?
       description: Name of the phishing page which is broken. Attach screenshot if possible.
     validations:
